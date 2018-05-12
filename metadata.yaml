@@ -1,0 +1,31 @@
+_repo: Animal-Sanctuaries-in-LabradorJanuary-1911_14866
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wood, William Charles Henry
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '986'
+    url: http://www.gutenberg.org/2009/agents/986
+description: ''
+gutenberg_bookshelf: Ecology
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Animal welfare'
+- !lcsh 'Animal sanctuaries -- Newfoundland and Labrador -- Labrador'
+- !lcsh 'Labrador (N.L.) -- Economic conditions'
+title: "Animal Sanctuaries in Labrador\r\nAn Address Presented by Lt.-Colonel William\
+  \ Wood, F.R.S.C. before the Second Annual Meeting of the Commission of Conservation\
+  \ at Quebec, January, 1911"
+url: http://www.gutenberg.org/ebooks/14866
